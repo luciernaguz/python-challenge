@@ -1,3 +1,4 @@
 # python-challenge
 Python Challenge
-This challenge if for practice Python´s
+This challenge if for practice Python´s script. 
+
